@@ -1,0 +1,62 @@
+{
+"products":[
+    {
+        "name":"Belo grozje",
+        "price":45,
+        "unit":"kg",
+        "tag":"fruit",
+        "market":"kam"
+
+    },
+    {
+        "name":"Mlad kompir",
+        "price":23,
+        "unit":"kg",
+        "tag":"vegetable",
+        "market":"kam"
+    },
+    {
+        "name":"Osogovski mesan kaskaval",
+        "price":329,
+        "unit":"kg",
+        "tag":"dairy",
+        "market":"kam"
+    },
+    {
+        "name":"Zamrznata visnja",
+        "price":42,
+        "unit":"kg",
+        "tag":"fruit",
+        "market":"kam"
+    },
+    {
+        "name":"Tableti za sadovi Maxi Pack Finish",
+        "price":399,
+        "unit":"kom",
+        "tag":"hygiene",
+        "market":"kam"
+    },
+    {
+        "name":"Tecen detergent Persil 1,5L",
+        "price":275,
+        "unit":"kom",
+        "tag":"hygiene",
+        "market":"kam"
+    },
+    {
+        "name":"Limoni",
+        "price":85,
+        "unit":"kg",
+        "tag":"fruit",
+        "market":"kam"
+    },
+    {
+        "name":"Bademovo mleko 1L",
+        "price":129,
+        "unit":"kom",
+        "tag":"dairy",
+        "market":"kam"
+    }
+    
+]
+}
